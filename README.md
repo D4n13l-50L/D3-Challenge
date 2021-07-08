@@ -1,5 +1,5 @@
 # D3-Challenge
-1[alt-text]()
+1[alt-text](https://github.com/D4n13l-50L/D3-Challenge/blob/main/Images/giphy%20(1).gif)
 
 Background
 Welcome to the newsroom! You've just accepted a data visualization position for a major metro paper. You're tasked with analyzing the current trends shaping people's lives, as well as creating charts, graphs, and interactive elements to help readers understand your findings.
