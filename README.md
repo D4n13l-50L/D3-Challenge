@@ -9,3 +9,5 @@ The data set included with the assignment is based on 2014 ACS 1-year estimates 
 -What I learned-
 
 Doing this homework I learned  skills in interactive data visualization using D3.js, Leaflet.js, and more JavaScript to engage with the GeoJSON file type. We’re excited to spend a little time with you again to show you how this material is applicable to your future career in data.
+
+To view the graph click [this link](https://d4n13l-50l.github.io/D3-Challeng.io/index.html) 
